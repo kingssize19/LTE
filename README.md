@@ -5,10 +5,10 @@ LTE, **"Long-Term Evolution"** kelimelerinin kısaltmasıdır. Mobil cihazlar (a
 Genel olarak **4G** olarak bilinir ve 3G teknolojisine göre çok daha yüksek hızlar ve daha düşük gecikme süreleri (ping) sunar.
 
 **LTE'nin temel özellikleri ve faydaları :**
-**1. Yüksek Hız :** İnternette gezinme, video izleme, dosya indirme ve yükleme gibi işlemleri çok daha hızlı yapmamızı sağlar.
-**2. Düşük Gecikme (Low Latency) :** Sunucuya gönderilen bir isteğin cevaplanma süresi çok daha kısadır. Bu, özellikle online oyunlar, görüntülü görüşmeler ve diğer gerçek zamanlı uygulamalar için kritik öneme sahiptir.
-**3. Daha Yüksek Kapasite :** Aynı anda daha fazla kullanıcının ağa sorunsuz bir şekilde bağlanmasına olanak tanır. Bu da kalabalık yerlerde bile internet bağlantısının daha stabil kalmasını sağlar.
-**4. Verimlilik :** Veriyi daha verimli bir şekilde ileterek mobil operatörlerin ağlarını daha etkin kullanmasını sağlar.
+**1.Yüksek Hız :** İnternette gezinme, video izleme, dosya indirme ve yükleme gibi işlemleri çok daha hızlı yapmamızı sağlar.
+**2.Düşük Gecikme (Low Latency) :** Sunucuya gönderilen bir isteğin cevaplanma süresi çok daha kısadır. Bu, özellikle online oyunlar, görüntülü görüşmeler ve diğer gerçek zamanlı uygulamalar için kritik öneme sahiptir.
+**3.Daha Yüksek Kapasite :** Aynı anda daha fazla kullanıcının ağa sorunsuz bir şekilde bağlanmasına olanak tanır. Bu da kalabalık yerlerde bile internet bağlantısının daha stabil kalmasını sağlar.
+**4.Verimlilik :** Veriyi daha verimli bir şekilde ileterek mobil operatörlerin ağlarını daha etkin kullanmasını sağlar.
 
 Kısacası LTE, günümüzdeki modern mobil internet deneyiminin temelini oluşturan teknolojidir. 5G teknolojisi yaygınlaşmaya başlasa da, LTE hala dünya genelinde en yaygın kullanılan yüksek hızlı mobil veri standardıdır.
 
