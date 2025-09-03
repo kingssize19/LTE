@@ -20,12 +20,12 @@ LTE'nin IoT alanında sağladığı en temel kolaylık, cihazları **Wi-Fi veya 
 
 **LTE'nin IoT Alanında Sağladığı Kolaylıklar :**
 
-**1. Geniş Kapsama Alanı :** Cihazlarınızı neredeyse her yerde (şehirler, kırsal alanlar, otoyollar vb.) internete bağlayabilirsiniz. Wi-Fi'ın aksine, yerel bir ağ kurma zorunluluğu yoktur.
-**2. Kurulum Kolaylığı (Tak ve Çalıştır) :** Bir IoT cihazını LTE ile kurmak, genellikle cihaza bir SIM kart takıp gücü açmak kadar basittir. Wi-Fi şifreleri, ağ yapılandırmaları veya kablo çekme gibi dertler ortadan kalkar.
-**3. Hareketlilik (Mobilite) :** Bu, LTE'nin en büyük avantajlarından biridir. Araçlar, kargo konteynerleri veya hatta insanlar/hayvanlar üzerindeki takip cihazları gibi hareketli nesneler kesintisiz olarak internete bağlı kalabilir.
-**4. Yüksek Güvenilirlik :** Mobil operatör ağları, genellikle yüksek çalışma süresine (uptime) sahip, profesyonelce yönetilen ve bakımı yapılan altyapılardır. Bu da IoT uygulamaları için stabil bir bağlantı sağlar.
-**5. Güvenlik :** Hücresel ağlar, SIM kart tabanlı kimlik doğrulama ve ağ düzeyinde şifreleme gibi yerleşik güvenlik katmanlarına sahiptir.
-**6. Yeterli Bant Genişliği :** Özellikle video akışı gerektiren güvenlik kameraları veya yüksek miktarda veri gönderen gelişmiş sensörler için LTE'nin sunduğu hız fazlasıyla yeterlidir.
+1. **Geniş Kapsama Alanı :** Cihazlarınızı neredeyse her yerde (şehirler, kırsal alanlar, otoyollar vb.) internete bağlayabilirsiniz. Wi-Fi'ın aksine, yerel bir ağ kurma zorunluluğu yoktur.
+2. **Kurulum Kolaylığı (Tak ve Çalıştır) :** Bir IoT cihazını LTE ile kurmak, genellikle cihaza bir SIM kart takıp gücü açmak kadar basittir. Wi-Fi şifreleri, ağ yapılandırmaları veya kablo çekme gibi dertler ortadan kalkar.
+3. **Hareketlilik (Mobilite) :** Bu, LTE'nin en büyük avantajlarından biridir. Araçlar, kargo konteynerleri veya hatta insanlar/hayvanlar üzerindeki takip cihazları gibi hareketli nesneler kesintisiz olarak internete bağlı kalabilir.
+4. **Yüksek Güvenilirlik :** Mobil operatör ağları, genellikle yüksek çalışma süresine (uptime) sahip, profesyonelce yönetilen ve bakımı yapılan altyapılardır. Bu da IoT uygulamaları için stabil bir bağlantı sağlar.
+5. **Güvenlik :** Hücresel ağlar, SIM kart tabanlı kimlik doğrulama ve ağ düzeyinde şifreleme gibi yerleşik güvenlik katmanlarına sahiptir.
+6. **Yeterli Bant Genişliği :** Özellikle video akışı gerektiren güvenlik kameraları veya yüksek miktarda veri gönderen gelişmiş sensörler için LTE'nin sunduğu hız fazlasıyla yeterlidir.
 
 
 
